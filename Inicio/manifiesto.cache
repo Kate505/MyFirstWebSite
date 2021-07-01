@@ -1,0 +1,13 @@
+#Manifiesto v1.0
+# Este es un manifiesto para mi página Web
+CACHE MANIFEST
+index.html
+images/img.jpg
+images/develop.png
+
+NETWORK:
+
+FALLBACK:
+index.html
+images/img.jpg
+images/develop.png
