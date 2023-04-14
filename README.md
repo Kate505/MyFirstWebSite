@@ -1,2 +1,2 @@
 # MyFirstRepository
-No sé que es exactamente un repositorio
+Ya he descubierto lo que es un repositorio, y las ventajas de tenerlo
